@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:MONISH KUMAR N
+### Register Number:24012059
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
